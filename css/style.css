@@ -175,11 +175,11 @@ p {
     justify-content: center;
     display: flex;
 }
-h4 {
-    font-family: 'Montserrat', 600;
-}
 h5 {
     color: #89f144;
+}
+h4 {
+    font-family: 'Montserrat', 600;
 }
 .footer {
     background-color: #66e955;
